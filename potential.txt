@@ -1,0 +1,14 @@
+, 1d V: 0.000000, 7d V: 0.000000, 30d V: 0.000000, allTime V: 0.000000, totalSupply: 0.000000 , floorPrice: 0.000000
+
+ainightbirds, 1d V: 1643.776676, 7d V: 2070.977707, 30d V: 2070.977707, allTime V: 2070.977707, totalSupply: 10000.000000 , floorPrice: 0.188000
+
+verblabsofficial, 1d V: 287.001899, 7d V: 604.368147, 30d V: 606.077447, allTime V: 606.077447, totalSupply: 6500.000000 , floorPrice: 0.174000
+
+somethingtoken, 1d V: 8.582700, 7d V: 71.144455, 30d V: 5709.475768, allTime V: 5710.512168, totalSupply: 10000.000000 , floorPrice: 0.084000
+
+gamingapeclub, 1d V: 4.510800, 7d V: 19.166499, 30d V: 100.190318, allTime V: 751.174436, totalSupply: 6550.000000 , floorPrice: 0.105000
+
+chain-runners-nft, 1d V: 2.625000, 7d V: 49.471793, 30d V: 274.011361, allTime V: 12885.481267, totalSupply: 10000.000000 , floorPrice: 0.259000
+
+bokinftofficial, 1d V: 1279.032191, 7d V: 2692.440963, 30d V: 2718.559063, allTime V: 2718.559063, totalSupply: 7777.000000 , floorPrice: 0.300000
+
